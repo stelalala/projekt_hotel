@@ -69,8 +69,8 @@ namespace projekt_hotel
             else if ((textBox3.Text == "josipa.loncar" && textBox4.Text == "josipa1234") || (textBox3.Text == "stela.pulic" && textBox4.Text == "stela1234"))
             {
                 this.Hide();
-                Form3 form3 = new Form3();
-                form3.ShowDialog();
+                Form2 form2 = new Form2();
+                form2.ShowDialog();
             }
             else
             {
