@@ -34,7 +34,7 @@ namespace Hotel
 
         private void button8_Click(object sender, EventArgs e)
         {
-             if (textBox10.Text == "")
+            if (textBox10.Text == "")
             {
                 label35.Visible = true;
                 label35.Text = "Odaberite hotel!";

@@ -1,4 +1,4 @@
-﻿namespace projekt_hotel
+﻿namespace Hotel
 {
     partial class Form1
     {
